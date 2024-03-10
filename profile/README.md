@@ -8,6 +8,7 @@ Equipe formada por estudantes do curso de Banco de Dados da FATEC Profº Jessen 
 |-----------------------|-------------------------|-------------------------|
 | 2º SEM | [2RP Net](https://www.2rpnet.com.br/pt;) | <a href="https://github.com/codecatss/API-BD2">API 2 SEM<a/> |    
 | 3º SEM | [2RP Net](https://www.2rpnet.com.br/pt;) | <a href="https://github.com/codecatss/API-BD3">API 3 SEM<a/> |     
+| 4º SEM | [Oracle](www.oracle.com;) | <a href="https://github.com/codecatss/API-BD4">API 4 SEM<a/> | 
 
 </div>
 
